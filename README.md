@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Descriptive paper analysis**
+- 🔭 I’m currently working on **College_Chatbot**
 
-- 🌱 I’m currently learning **ML,AI,Devoops,webdev**
+- 🌱 I’m currently learning **ML,,webdev**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Machine Learning**
 
-- 🤝 I’m looking for help with **Artificial Intelligence**
+- 🤝 I’m looking for help with **Web Dev**
 
-- 💬 Ask me about **ML**
+- 💬 Ask me about **ML,NLP**
 
 - 📫 How to reach me **naveenakumari1902@gmail.com**
 
